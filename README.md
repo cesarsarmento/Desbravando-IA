@@ -17,7 +17,7 @@ Este repositório utiliza as seguintes tecnologias:
 ### 🌐 Acesso na Web
 
 A versão online do sistema está disponível em:
-🔗 https://agente-ia-nf-develop-axv8udenawvkma28u6uc7y.streamlit.app/
+🔗 https://agente-ia-nf-main-kyr3p7syqfwz3ky23c4bpd.streamlit.app/
 
 ### 📥 Para uso local
 
